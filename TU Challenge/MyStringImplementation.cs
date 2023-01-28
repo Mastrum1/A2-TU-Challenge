@@ -158,7 +158,6 @@ namespace TU_Challenge
                 {
                     res += ' ';
                 }
-
             }
             return res;
         }
